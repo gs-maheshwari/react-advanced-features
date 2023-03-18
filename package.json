@@ -1,0 +1,9 @@
+{
+  "name": "react-advanced-features",
+  "version": "1.0.0",
+  "description": "react practise",
+  "main": "index.js",
+  "repository": "https://github.com/gs-maheshwari/react-advanced-features.git",
+  "author": "Gourishankar",
+  "license": "MIT"
+}
